@@ -4,9 +4,13 @@ Welcome to the Singapore Resale Flat Prices Prediction project! This repository 
 This project aims to assist buyers and sellers in the Singapore housing market by providing accurate resale price estimates based on historical data. Key factors such as location, flat type, floor area, and lease duration are considered in the prediction.
 # Skills Learned
 Data Wrangling
+
 Exploratory Data Analysis (EDA)
+
 Model Building
+
 Model Deployment
+
 # Problem Statement
 Estimating the resale value of flats in Singapore is challenging due to various influencing factors. This project develops a machine learning model to provide accurate resale price estimates, helping users make informed decisions.
 # Motivation
